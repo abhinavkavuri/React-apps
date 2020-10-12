@@ -5,7 +5,7 @@ This repository contains links to all the React Applications and Designs.
 
 `React Image Search`: https://codesandbox.io/s/react-image-search-m65jp
 <br/>
-`Season Detection`: https://codesandbox.io/s/seasons-9v5pe
+`Season Detection`: https://season-detection.netlify.app/
 <br/>
 `UI Comment`: https://codesandbox.io/s/ui-comment-cu0gd
 <br/>
